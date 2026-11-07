@@ -70,7 +70,7 @@ Run all cells (under a minute). Seeds are fixed (`random_state = 42`).
 
 - **Image:** `aerial_img.png` was supplied through upGrad coursework for educational use; its original source is not documented.
 - The analysis is my own implementation and extends an upGrad Fuzzy C-Means demo, which is not reproduced here. Fuzzy C-Means uses [scikit-fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy).
-- Completed as part of the MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad).
+- Coursework completed during my MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad); published to GitHub in November 2026.
 
 ## Licence
 
