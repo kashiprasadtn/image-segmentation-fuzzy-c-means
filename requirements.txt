@@ -1,0 +1,9 @@
+# Tested with Python 3.13, scikit-fuzzy 0.5.0, scikit-learn 1.9.1, scipy, Pillow, matplotlib 3.11.2
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+scikit-fuzzy>=0.4.2
+Pillow>=10.0
+matplotlib>=3.8
+jupyterlab>=4.0
